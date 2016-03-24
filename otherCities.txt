@@ -1,0 +1,5 @@
+Rexburg,ID:Idaho Falls,ID:30:4
+Boise:Denver:240:16
+Idaho,FALLS:Rexburg,ID:30:4
+Rexburg,ID:Denver,CO:400:31
+Rexburg,ID:Aston,ID:30:4
